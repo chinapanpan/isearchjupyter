@@ -1,6 +1,10 @@
 -i https://pypi.tuna.tsinghua.edu.cn/simple
 -i https://pypi.tuna.tsinghua.edu.cn/simple
 -i https://pypi.tuna.tsinghua.edu.cn/simple
+-i https://pypi.tuna.tsinghua.edu.cn/simple
+-i https://pypi.tuna.tsinghua.edu.cn/simple
+-i https://pypi.tuna.tsinghua.edu.cn/simple
+-i https://pypi.tuna.tsinghua.edu.cn/simple
 
 diffusers
 ftfy
